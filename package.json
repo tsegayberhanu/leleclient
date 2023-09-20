@@ -1,0 +1,35 @@
+{
+  "name": "vuetifylab",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": " SET NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "build": " vue-cli-service build"
+  },
+  "dependencies": {
+    "@kevinfaguiar/vue-twemoji-picker": "^5.5.3",
+    "axios": "^0.21.1",
+    "openssl": "^2.0.0",
+    "v-emoji-picker": "^2.1.5",
+    "vee-validate": "^3.2.5",
+    "vue": "^2.6.11",
+    "vue-router": "^3.1.6",
+    "vuetify": "^2.2.18",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@mdi/font": "^4.9.95",
+    "@vue/cli-plugin-router": "^4.2.3",
+    "@vue/cli-plugin-vuex": "^4.2.3",
+    "@vue/cli-service": "^4.2.3",
+    "sass": "^1.26.3",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "^2.0.5",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.3.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}
