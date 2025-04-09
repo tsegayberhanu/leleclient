@@ -17,6 +17,7 @@ npm run build
 
 
 System Capabilities 🤩
+
 This app supports a wide range of features, including:
 
 User Registration 📝
