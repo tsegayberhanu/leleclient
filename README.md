@@ -1,4 +1,4 @@
-# vuetifylab a vue and vuetify powered frontend app
+🌟 Vue and Vuetify Powered Frontend App(client-side) 🌟
 
 ## Project setup
 ```
@@ -15,17 +15,18 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-what the system is capable of doing
-user registration
-form validation with vuelidate
-authorization and authotincation  JsonWebtoken
-Forget password, reset password and email confirmation
-account setting and profile updating.
-creating textual contents
-creating posts
-commenting,replying, liking, desliking and sharing to a post
-accepting and requesting friendship
-inshort all the basic social networking activities
+
+System Capabilities 🤩
+This app supports a wide range of features, including:
+User Registration 📝
+Form Validation with Vuelidate 📊
+Authorization and Authentication using JSON Web Tokens 🔒
+Password Management: Forget Password, Reset Password, and Email Confirmation 📧
+Account Settings and Profile Updating 📈
+Content Creation: Create textual contents 📄
+Post Management: Create posts, comment, reply, like, dislike, and share posts 💬
+Social Networking: Accept and request friendships 👫
+
+In short, this app supports all the basic social networking activities! 🌐
+Feel free to customize it further as needed! 😊
 
